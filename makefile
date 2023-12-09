@@ -1,5 +1,5 @@
 Parse.o: Parse.cpp
-	g++ Parse.cpp -o Parse.o
+	g++ Parse.cpp -o Parse.exe
 
 clean:
-	rm -f Parse.o
+	rm -f Parse.exe
