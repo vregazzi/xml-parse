@@ -31,5 +31,6 @@ int main()
 
     PrintTitles(fileName);
 
+    std::cout << "complete";
     return 0;
 }
